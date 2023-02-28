@@ -1,0 +1,39 @@
+.channel{
+    display: flex;
+    flex-direction: row;
+    padding: 3rem;
+    
+}
+
+.youtube{
+    
+    
+    padding: 3rem;
+}
+
+.channelds{
+    margin: 5%;
+}
+
+.channelimg{
+    justify-items: center;
+    
+}
+
+.brokers{
+    padding: 1rem;
+}
+
+.brimg{
+width: auto;
+height: 16rem;
+}
+
+book1{
+    display: flex;
+    flex-direction: column;
+}
+   
+.buynow{
+    justify-items: center;
+}
